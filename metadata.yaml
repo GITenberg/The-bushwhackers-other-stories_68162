@@ -1,0 +1,37 @@
+_repo: The-bushwhackers-other-stories_68162
+_version: 0.0.1
+alternative_title: The bushwhackers and other stories
+creator:
+  author:
+    agent_name: Murfree, Mary Noailles
+    alias: Craddock, Charles Egbert
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '1759'
+    url: http://www.gutenberg.org/2009/agents/1759
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Noailles_Murfree
+description: ''
+gutenberg_issued: '2022-05-24'
+identifiers:
+  gutenberg: '68162'
+language: en
+pgterms:marc904: https://archive.org/details/bushwhackersothe00cradiala
+pgterms:marc905: 20201205075910craddock
+pgterms:marc906: '1899'
+pgterms:marc907: us
+production_note: Peter Becker, Martin Pettit and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Herbert S. Stone & Company,1899.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tennessee -- Social life and customs -- Fiction'
+- !lcsh 'Mountain life -- Fiction'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The bushwhackers -- The panther of Jolton's Ridge -- The exploit
+  of Choolah, the Chickasaw.
+title: The bushwhackers & other stories
+url: http://www.gutenberg.org/ebooks/68162

@@ -1,6 +1,9 @@
 _repo: The-bushwhackers-other-stories_68162
 _version: 0.1.0
 alternative_title: The bushwhackers and other stories
+covers:
+- cover_type: archival
+  image_path: 68162-h/images/cover.jpg
 creator:
   author:
     agent_name: Murfree, Mary Noailles
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1759
     wikipedia: https://en.wikipedia.org/wiki/Mary_Noailles_Murfree
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68162#The-bushwhackers-other-stories
 gutenberg_issued: '2022-05-24'
 identifiers:
   gutenberg: '68162'
